@@ -8,7 +8,7 @@
     # 6) sets - a pattern between a [ ]
     # 7) quantifier
     # 8) conditions
-    # 9) grouping
+    # 9) grouping  
     # 10) modification
     # 11) compilation flags
 #--------------------------------------------
